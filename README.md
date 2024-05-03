@@ -13,3 +13,6 @@ Additionally, the designed system can support grid frequency while taking into a
 The use of k-means clustering and feed-forward neural networks in a load demand forecasting system is also proposed. 
 
 The results obtained by the proposed system demonstrate that the HEMS minimizes the residential prosumer's operating costs, supports system frequency optimally, satisfies all operational requirements of the controlled system, and maintains the operational flexibility of all cooperating power components at the highest level.
+
+![image](https://github.com/IasonKalaitzakis/Optimal-Power-Management-and-Control-of-Residential-Microgrids/assets/31860283/223596bb-5154-41d6-b51c-3aa757c413eb)
+
